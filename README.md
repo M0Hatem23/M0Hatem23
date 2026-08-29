@@ -1,20 +1,16 @@
-<h1 align="center">Hi 👋, I'm Hosam Zakaria</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Hatem</h1>
 
-<h3 align="center">Software Engineering Student</h3>
+<h3 align="center">Software Engineer</h3>
 
 
 
-- 🔭 I’m currently working on **Software Engineering Internship @ EFG Holding**
-
-- 🔭 I’m currently working on **Coordinator Data @ EYouth**
-
-- 🤝 Problem Solving Coach & Instructor **@ ICPC Thebes Community**
+- 🤝 Problem Solving Coach & Instructor **@ ICPC EELU Community**
 
 - 🌱 I’m currently learning **.NET, ASP.NET Core, Clean Architecture**
 
 - 💬 Ask me about **Competitive Programming, C++, Java, Backend Development**
 
-- 📫 How to reach me **hossamzakaria61@gmail.com**
+- 📫 How to reach me **mohamed.hatem82005@gmail.com**
 
 
 
