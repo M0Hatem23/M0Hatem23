@@ -4,9 +4,9 @@
 
 * 🤝 Problem Solving Coach & Instructor **@ ICPC EELU Community**
 
-* 🌱 I’m currently learning **Spring boot, Clean Architecture**
+* 🌱 I’m currently learning **Spring Boot, Clean Architecture**
 
-* 💬 Ask me about **Competitive Programming, C++, Java, Backend Development**
+* 💬 Ask me about **Competitive Programming, C++, Java, Python, Backend Development**
 
 * 📫 How to reach me **[mohamed.hatem82005@gmail.com](mailto:mohamed.hatem82005@gmail.com)**
 
@@ -21,6 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
+
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
@@ -33,6 +34,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
 </a>
@@ -40,4 +45,5 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </a>
+
 </p>
