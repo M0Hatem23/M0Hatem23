@@ -4,7 +4,7 @@
 
 * 🤝 Problem Solving Coach & Instructor **@ ICPC EELU Community**
 
-* 🌱 I’m currently learning **.NET, ASP.NET Core, Clean Architecture**
+* 🌱 I’m currently learning **Spring boot, Clean Architecture**
 
 * 💬 Ask me about **Competitive Programming, C++, Java, Backend Development**
 
